@@ -1,1 +1,1 @@
-# C-Users-erith-source-repos-CV_submission_tool
+# CV_submission_tool
